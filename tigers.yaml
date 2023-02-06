@@ -1,6 +1,10 @@
 team: Tigers
 
+<<<<<<< HEAD
 manager: main-kenneth
+=======
+manager: Deborah
+>>>>>>> 1-conflict
 
 coach: choongil
 
